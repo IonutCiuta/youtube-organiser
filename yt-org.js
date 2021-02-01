@@ -10,13 +10,11 @@ const q = "?playlistId={PLAYLIST_ID}&key={KEY}&part=snippet"
 
 let query = q
   .replace("{PLAYLIST_ID}", "UUbvKamSrJkwT6ed2BMMZXwg")
-  .replace("{KEY}", "AIzaSyDrj5CwS27FE_8j1q8j2z2PBd6y184ZqFU")
+  .replace("{KEY}", "")
 
 let url = api + resource + query
 
-let videos = []
-
-function getPage(pageToken, attempt) {
+function getPage(pageToken, attempt, videos, success) {
   if(attempt > 3) {
     console.error("Max attempts reached. Stopping.")
     return
@@ -28,6 +26,7 @@ function getPage(pageToken, attempt) {
 
   if(pageToken == -1) {
     console.log("Read all pages. Stopping.")
+    success(videos)
     return
   }
 
@@ -35,12 +34,13 @@ function getPage(pageToken, attempt) {
     pageToken = ""
   }
 
-  console.log("Requesting\n\tpage: " + (pageToken ? pageToken : "first" + "\n\tattempt: " + attempt))
+  let nextUrl = url + "&pageToken=" + pageToken + "&maxResults=50"
+  console.log("Requesting\n\tpage: " + (pageToken ? pageToken : "first") + "\n\tattempt: " + attempt + "\n\tfrom: " + nextUrl)
 
-  axios.get(url + "&pageToken=" + pageToken + "maxResults=50")
+  axios.get(nextUrl)
     .then(function (response) {
       let data = response.data
-      parseVideos(data)
+      parseVideos(data, videos)
       pageToken = getNextPage(data)
     })
     .catch(function (error) {
@@ -48,7 +48,7 @@ function getPage(pageToken, attempt) {
         attempt += 1
     })
     .then(function () {
-      getPage(pageToken, attempt)
+      getPage(pageToken, attempt, videos, success)
     });
 }
 
@@ -57,18 +57,45 @@ function getNextPage(data) {
   return nextPage ? nextPage : -1
 }
 
-function parseVideos(data) {
-  data.items.array.forEach(video => {
+function parseVideos(data, videos) {
+  data.items.forEach(video => {
     videos.push({
-      title: video.title,
-      data: video.publishedAt,
-      id: video.publishedAt.videoId,
-      cover: video.thumbnails.standard.url
+      title: video.snippet.title,
+      desc: video.snippet.description,
+      data: video.snippet.publishedAt,
+      id: video.snippet.resourceId.videoId,
+      cover: video.snippet.thumbnails.default.url
     })
   });
 }
 
-getPage()
+function getAllVideos() {
+  let videos = []
+  getPage("", 0, videos, (result) => {
+    console.log(result.length)
+    fs.writeFile("out.json", JSON.stringify(result), () => {
+      console.log("Writing done.")
+    })
+  })
+}
 
-console.log(videos.size)
-console.log(videos)
+// Get all videos for channel
+// getAllVideos()
+
+fs.readFile("out.json", (err, data) => {
+  if(data) {
+    let filtered = JSON.parse(data).filter(video => {
+        return filterByTitle("Banii în mișcare", video)
+          || filterByDesc("Banii în mișcare", video)
+          || filterByDesc("#BaniiÎnMișcare", video)
+    }).sort((v1, v2) => new Date(v1.data) < new Date(v2.data))  
+    console.log(filtered)
+    console.log(filtered.length)
+  } else {
+    console.error(err)
+  }
+})
+
+const filterByTitle = (tag, video) => video.title.toLowerCase().includes(tag.toLowerCase())
+
+const filterByDesc = (tag, video) => video.desc.toLowerCase().includes(tag.toLowerCase())

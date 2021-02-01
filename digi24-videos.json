@@ -1,0 +1,2231 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "RsfqaNRgSPJSKCv-Gjle41XdKgk",
+  "nextPageToken": "CDIQAA",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QsAUcHdPpRGTN9PZ7KGbOYHV0sg",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLlhnRVZtUXZsbXYw",
+      "snippet": {
+        "publishedAt": "2021-02-01T20:00:06Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Ministrul Transporturilor Cătălin Drulă, despre soluțiile pentru aglomerația de pe Valea Prahovei",
+        "description": "Ministrul Transporturilor Cătălin Drulă este invitatul jurnaliștilor Claudiu Pândaru și Florin Negruțiu la emisiunea În fața ta, de la Digi24.\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24 #ÎnFațaTa #CătălinDrulă #EmisiuniDigi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XgEVmQvlmv0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XgEVmQvlmv0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XgEVmQvlmv0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XgEVmQvlmv0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XgEVmQvlmv0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XgEVmQvlmv0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YB_9s4AkAK0fAGe9Vrj0Ayvbqrk",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLk9zT1J1bWh6eUFv",
+      "snippet": {
+        "publishedAt": "2021-02-01T19:00:06Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Ștefan Mandachi: Dacă faci o scară către cer, te va înjura cineva că n-ai făcut lift - Digi24",
+        "description": "Ștefan Mandachi, antreprenorul care a construit singurul metru de autostradă din Moldova, la câțiva kilometri de Suceava, este invitatul lui Lucian Mîndruță, la Digi 24, în emisiunea ”Ediția de dimineață”, realizată în parteneriat cu site-ul editiadedimineata.ro.\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24 #ȘtefanMandachi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OsORumhzyAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OsORumhzyAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OsORumhzyAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OsORumhzyAo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OsORumhzyAo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OsORumhzyAo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K32GsaEpKBSNm7oCDToFllYYg98",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLlZCSk03bk9UTmhN",
+      "snippet": {
+        "publishedAt": "2021-02-01T18:00:19Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Noua provocare a pandemiei: mutațiile. Medic: Omul e un teren de joacă pentru virus - Digi24",
+        "description": "În timp ce omenirea încă mai caută metode prin care să se apere, noul coronavirus a evoluat. Noile sale tupini se răspândesc mai repede. Acum, provocarea este ca acestea să fie depistate, iar asta se face prin tehnici de laborator complexe și costisitoare. Urmează un nou episod al campaniei Pacient în România.\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24 #PacientÎnRomânia #EmisiuniDigi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VBJM7nOTNhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VBJM7nOTNhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VBJM7nOTNhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VBJM7nOTNhM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VBJM7nOTNhM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VBJM7nOTNhM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ljvx78Iy3j5YnAoxE7JF0Y4_n10",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLkcxUU9FZllwM3lF",
+      "snippet": {
+        "publishedAt": "2021-02-01T17:45:00Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Zece factori esențiali pentru rezistența companiei în criză. Banii în mișcare, Digi24",
+        "description": "Săptămâna aceasta vorbim despre supraviețuirea companiilor în condiții de criză. Practic, revenim și continuăm cu o analiză a celor 10 factori esențiali pentru rezistența afacerilor în condiții adverse. \n\nAnalistul economic Iancu Guda ne aduce de luni până vineri „Banii în mișcare”, rubrica de economie pe înțelesul tuturor, din care vom învăța cum să fim cei mai buni administratori ai propriilor finanțe. Complicatele mecanisme ale economiei nu vor fi mai fi atât de greu de descifrat. Emisiunea vine cu informații noi, dar accesibile și celor care nu au studii economice, cu soluții la problemele financiare ale fiecărei familii, dar și cu sfaturi despre cum trebuie administrată o afacere ca să aducă profit.\n\n#Digi24 #EmisiuneDigi24 #BaniiÎnMișcare",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G1QOEfYp3yE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G1QOEfYp3yE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G1QOEfYp3yE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G1QOEfYp3yE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G1QOEfYp3yE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G1QOEfYp3yE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "80_cETvBZjIJ-x0ykv7qk9PJmlk",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLk5WelEyNGZJSC1R",
+      "snippet": {
+        "publishedAt": "2021-02-01T17:15:03Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Pană de somn cu roșii. Rețetele lui Petrișor Tănase la Sănătatea în Bucate, Digi24",
+        "description": "Rețeta delicioasă gătită astăzi de Petrișor Tănase este pană de somn cu roșii. Ai nevoie de: pană de somn, ulei de măsline, tomate, usturoi, ceapă, busuioc, ardei iute, sare, piper. \n\n\"Sănătatea în Bucate\" este o emisiune în care oricine poate învăţa să gătească rapid, gustos şi sănătos. Duminică, Petrișor Tănase, gazda emisiunii, te ajută să creezi cele mai spectaculoase bucate cu minim de efort şi ingrediente pe care le poţi găsi la orice supermarket.\n\n#Digi24 #EmisiuniDigi24 #SănătateÎnBucate #RețeteleLuiPetrișorTănase",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NVzQ24fIH-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NVzQ24fIH-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NVzQ24fIH-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NVzQ24fIH-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NVzQ24fIH-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NVzQ24fIH-Q"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cq5dhpAhT6QfzvGTK18VMj-dmrc",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLjZtdEZOaEthUFRF",
+      "snippet": {
+        "publishedAt": "2021-02-01T17:00:08Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Artiști români cu succes în străinătate. Povestea lui Nicolae Deneș, prim-solist la Moulin Rouge",
+        "description": "Românul Nicolae Deneș este, de 17 ani, prim-solist al celebrului balet de la Moulin Rouge. Este un produs al școlii românești de dans, fiind absolvent al Liceului de coregrafie „George Enescu” din București și fost dansator la Opera Națională. Din 2004 s-a stabilit însă în Franța, după ce, printr-o împrejurare ce combină șansa cu talentul și munca, a ajuns prim-dansator pe renumita scenă pariziană.\n\n➥ Citeşte articolul integral - http://bit.ly/3raVGPr\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6mtFNhKaPTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6mtFNhKaPTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6mtFNhKaPTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6mtFNhKaPTE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6mtFNhKaPTE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6mtFNhKaPTE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Eii0GmfNhLohqe-YWAvgWuZK9tM",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLktMbjMxUnZCZXNJ",
+      "snippet": {
+        "publishedAt": "2021-02-01T16:45:01Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Urs panda surprins în timp ce se dă pe derdeluș - Digi24",
+        "description": "Urșii panda de la grădina zoologică din Washington sunt încântați de zăpadă. Camerele i-au surprins dându-se pe derdeluș și rostogolindu-se prin zăpadă.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KLn31RvBesI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KLn31RvBesI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KLn31RvBesI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KLn31RvBesI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KLn31RvBesI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KLn31RvBesI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uVEDCKxpdGq5OrjcWgr9s-BWP7A",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLkZkUEdSQWVTWGRB",
+      "snippet": {
+        "publishedAt": "2021-02-01T16:30:01Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Descoperiri uimitoare despre Marte: acum 3 miliarde de ani semăna cu Islanda de azi",
+        "description": "Oamenii de știință au mai aflat câteva mistere ale planetei Marte. Ghețarii marțieni le-au dezvăluit că Planeta Roșie a trecut prin 20 de epoci glaciare. Geologii nu au putut să îi studieze personal, în schimb au avut la dispoziție imagini de rezoluție înaltă, cu 45 de ghețari surprinse de o sondă NASA. O altă echipă de oameni de știință ne spune că în urmă cu 3 miliarde de ani, când Marte avea oceane, peisajul semăna izbitor cu cel din Islanda zilelor noastre.\n\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FdPGRAeSXdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FdPGRAeSXdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FdPGRAeSXdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FdPGRAeSXdA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FdPGRAeSXdA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FdPGRAeSXdA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3mdBLd8GUHQA4BMubs6S_a0tIx0",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLktxcG5ReTVud3I0",
+      "snippet": {
+        "publishedAt": "2021-02-01T15:34:25Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Ce credeau spionii americani despre viitorul lui Ceaușescu în noiembrie 1989 - Digi24",
+        "description": "Un document declasificat din arhiva CIA, care analiza situația din țările din estul Europei înainte de Întâlnirea de la Malta din 1989, dezvăluie ce știa și ce credea spionajul american că se întâmplă în România lui Nicolae Ceaușescu cu mai puțin de o lună înainte de Revoluția din 22 Decembrie. Din document reiese că agenții de informații erau la curent cu situația din țară, însă nu aveau nicio idee despre sfârșitul violent al regimului, care avea să vină peste doar câteva săptămâni.\n\n➥ Citeşte articolul integral - http://bit.ly/3pDfkn1\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KqpnQy5nwr4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KqpnQy5nwr4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KqpnQy5nwr4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KqpnQy5nwr4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KqpnQy5nwr4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KqpnQy5nwr4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VBEse5rs7LvyWMxZ1QJI-5O700w",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLl9Ba3YtZzFhdV9n",
+      "snippet": {
+        "publishedAt": "2021-02-01T14:55:38Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Procurorii ruși cer pedeapsă cu executare pentru Alexei Navalnîi - Digi24",
+        "description": "Parchetul rus a anunţat, luni, că susţine cererea Administraţiei penitenciarelor de a comuta pedeapsa cu suspendare împotriva opozantului Alexei Navalnîi într-o pedeapsă cu executare, transmite Reuters.\n\n➥ Citeşte articolul integral - http://bit.ly/3crkONP\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Akv-g1au_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Akv-g1au_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Akv-g1au_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_Akv-g1au_g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_Akv-g1au_g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_Akv-g1au_g"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QhRW1-4BOdvZWTpXxsn2U4yFYZs",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLmwyZkc5aWFDaC1V",
+      "snippet": {
+        "publishedAt": "2021-02-01T14:30:14Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Muscalu: Sunt foarte multe companii care merg în pierdere și nu vor face acest plan de redresare",
+        "description": "Premierul Florin Cîțu că adoptarea bugetului de stat în Guvern va ma întârzia câteva zile, pentru că așteaptă de la miniștri propuneri de reforme privind companiile de stat. El a avertizat că în cazul în care aceste companii nu vor realiza planuri de reformare prin care să arate că revin pe profit, acestea vor dispărea.\n\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l2fG9iaCh-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l2fG9iaCh-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l2fG9iaCh-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l2fG9iaCh-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l2fG9iaCh-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l2fG9iaCh-U"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RY2C0mzkXCMd0aZ5vG_cP7MO2po",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLkpMcTdmZUQ4blpB",
+      "snippet": {
+        "publishedAt": "2021-02-01T14:18:29Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Joe Biden vrea să dubleze salariul minim - Digi24",
+        "description": "Joe Biden vrea să dubleze salariul minim, care nu a mai fost modificat de la jumătatea anului 2009.\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JLq7feD8nZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JLq7feD8nZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JLq7feD8nZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JLq7feD8nZA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JLq7feD8nZA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JLq7feD8nZA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eVHb1vVxiwkUFl7vooQzNDs1Ohg",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLmpBQnV3eVR3SFVr",
+      "snippet": {
+        "publishedAt": "2021-02-01T13:41:59Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Protest PSD în Parlament. Deputații au venit cu pancarte pe care scrie „Demisia Voiculescu”",
+        "description": "În prima zi a sesiunii parlamentare din acest an, deputații PSD au venit în Parlament pregătiți de protest. Aceștia cer demisia ministrului Sănătății, Vlad Voiculescu. Social democrații au venit pregătiți cu pancarte.\n\n➥ Citeşte articolul integral - http://bit.ly/3tg1MzX\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jABuwyTwHUk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jABuwyTwHUk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jABuwyTwHUk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jABuwyTwHUk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jABuwyTwHUk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jABuwyTwHUk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1lcrAWetjIDlzpcIzS7soZD7gak",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLnJGN25PT1VTX3hR",
+      "snippet": {
+        "publishedAt": "2021-02-01T13:40:37Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Kelemen Hunor are altă opinie despre înghețarea pensiilor față de Cîțu: Nu există acord. Punct",
+        "description": "Vicepremierul Kelemen Hunor a declarat, luni, în Parlament, că nu există un acord în privința înghețării punctului de pensie de către Guvern, afirmație care vine în contrast cu ce a spus anterior, în aceeași zi, prim-ministrul Florin Cîțu.\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24 #KelemenHunor",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rF7nOOUS_xQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rF7nOOUS_xQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rF7nOOUS_xQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rF7nOOUS_xQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rF7nOOUS_xQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rF7nOOUS_xQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OqUoOtxRD8utWXq5rTi4wstVWfg",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLklGU3BsN2pGZFZv",
+      "snippet": {
+        "publishedAt": "2021-02-01T13:10:06Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Centrul Cyber de la București, gata în acest an: „Un termen rezonabil este la jumătatea anului”",
+        "description": "Bucureștiul a câștigat cursa pentru a găzdui noul Centru European pentru Securitate Cibernetică. Acest centru va fi prima agenție europeană de pe teritoriul țării noastre. Centrul Cyber de la București ar putea deveni funcțional chiar din acest an. România va trebui să aloce însă și sume importante din bugetul alocat digitalizării. \n\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IFSpl7jFdVo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IFSpl7jFdVo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IFSpl7jFdVo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IFSpl7jFdVo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IFSpl7jFdVo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IFSpl7jFdVo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CvvR_OnWr-x5xdLVPSwqlNuPSuU",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLjlXZEt4eGxmek5z",
+      "snippet": {
+        "publishedAt": "2021-02-01T12:50:41Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Ludovic Orban: Vrem să corectăm legile Justiției - Digi24",
+        "description": "Ludovic Orban a declarat luni că au fost stabilite câteva obiective pentru această sesiune parlamentară.\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24 #LudovicOrban",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9WdKxxlfzNs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9WdKxxlfzNs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9WdKxxlfzNs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9WdKxxlfzNs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9WdKxxlfzNs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9WdKxxlfzNs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gMz9r4_eLHdu30Tvyy78GcLiNHw",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLlNjY2cyeUh2aFN3",
+      "snippet": {
+        "publishedAt": "2021-02-01T12:48:29Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Barna îl contrazice pe Cîțu legat de companiile din afara UE care nu au acces la licitații publice",
+        "description": "Premierul Florin Cîțu a reacționat după ce în presă a apărut informația potrivit căreia Guvernul ar fi aprobat un memorandum prin care companiile din China ar putea fi excluse de la licitațiile pentru construcția de autostrăzi, căi ferate și terenuri. Șeful Executivului a negat informația și a spus că e nevoie de o ordonanță de guvern pentru a face un astfel de lucru. Însă vicepremierul Dan Barna a confirmat existența unui memorandum, dar care nu vizează în mod clar firmele din China, ci toate companiile din afara UE care nu respectă acordurile europene.\n\n➥ Citeşte articolul integral - http://bit.ly/3cto6Qu\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sccg2yHvhSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sccg2yHvhSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sccg2yHvhSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Sccg2yHvhSw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Sccg2yHvhSw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Sccg2yHvhSw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HaZ3LzpQvMc0VKo9Tq-PhmXlTC4",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLjVzY3ZIdC1rcG9v",
+      "snippet": {
+        "publishedAt": "2021-02-01T12:21:55Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Proteste violente în Rusia. Peste 5.000 de oameni au fost arestați - Digi24",
+        "description": "Zeci de mii de oameni au protestat, în toată Rusia, în sprijinul lui Alexei Navalnîi. Demonstrațiile au degenerat în violențe la finalul cărora peste 5.000 de oameni au fost arestați.\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5scvHt-kpoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5scvHt-kpoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5scvHt-kpoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5scvHt-kpoo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5scvHt-kpoo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5scvHt-kpoo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iP45E7rIC3lpw7XnqsIaBwoL0Pc",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLmdZZDRUUDQ0Y3gw",
+      "snippet": {
+        "publishedAt": "2021-02-01T12:06:20Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "4 firme din 10 folosesc cuvântul „ecologic” în mod fals - Digi24",
+        "description": "4 firme din 10 folosesc cuvântul \"ecologic\" în mod exagerat, fals sau înșelător. Concluzia vine de la Comisia Europeană, care atrage atenția asupra faptului că o parte dintre produsele vândute nu se încadrează la categoria bio sau eco.\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gYd4TP44cx0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gYd4TP44cx0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gYd4TP44cx0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gYd4TP44cx0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gYd4TP44cx0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gYd4TP44cx0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E0YmM7tW1_kVFN9TzC7kO0LDtvc",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLmg3aTI5MTNtYXQ4",
+      "snippet": {
+        "publishedAt": "2021-02-01T11:52:33Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Autostradă distrusă de furtună în California - Digi24",
+        "description": "O furtună care a adus ploi și ninsori abundente a provocat o alunecare de teren ce a distrus o porțiune dintr-o autostradă de pe coasta Californiei. Consecințele au fost suprinse cu o dronă. Alunecarea a produs o gaură în terenul pe care trecea austostrada. O bucată din faleză s-a desprins și s-a prăbușit în ocean.\n\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h7i2913mat8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h7i2913mat8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h7i2913mat8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h7i2913mat8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h7i2913mat8"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0pc56icJuQo__oeXDoGehAD7IWA",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLjl6VzlrV2NPM2Vn",
+      "snippet": {
+        "publishedAt": "2021-02-01T11:50:46Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Pfizer va livra 75 de milioane de doze suplimentare. Băsescu: Lucrurile sunt extrem de complicate",
+        "description": "Ursula von der Leyen a anunțat că lucrează cu companiile farmaceutice să asigură că vaccinurile sunt livrate europenilor iar Pfizer – BioNTech va asigura livrarea a 75 de milioane de doze suplimentare în al doilea trimestru de anul acesta, adică perioada aprilie – iunie 2021.\n\n➥ Citeşte articolul integral - http://bit.ly/3oGveLU\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9zW9kWcO3eg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9zW9kWcO3eg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9zW9kWcO3eg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9zW9kWcO3eg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9zW9kWcO3eg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9zW9kWcO3eg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jHUxJhqFjH_yHqI0Zqu_mvX1qwY",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLmhkMWE5YWFQXzZV",
+      "snippet": {
+        "publishedAt": "2021-02-01T11:37:21Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "EXCLUSIV. Ce conține raportul realizat de autorități după tragedia de la Piatra Neamț - Digi24",
+        "description": "Informații în exclusivitate obținute de Digi24. Raport devastator privind situația sistemului sanitar din România întocmit de Inspecția sanitară de stat din Ministerul Sănătății după tragedia de la Piatra Neamț. 128 de spitale din 36 de județe nu au autorizație pentru securitate la incendiu, 28% din spitalele verificate nu au un rezervor de apă în cazul unui incendiu, nu există aparatură și nici personal medical suficiente.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hd1a9aaP_6U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hd1a9aaP_6U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hd1a9aaP_6U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hd1a9aaP_6U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hd1a9aaP_6U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hd1a9aaP_6U"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h64QS_jMLmF0V_4PWl93jWM9PfU",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLlY4bEdydHFfdzhR",
+      "snippet": {
+        "publishedAt": "2021-02-01T11:25:57Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Sute de oameni la coadă pentru burgeri gratis, în centrul Bucureștiului. Au intervenit și jandarmii",
+        "description": "Coadă de sute de oameni în fața unui fast-food din centrul Capitalei. Acesta tocmai a fost inaugurat și se dau gratis produse. Jandarmii au ajuns la fața locului.\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V8lGrtq_w8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V8lGrtq_w8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V8lGrtq_w8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V8lGrtq_w8Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V8lGrtq_w8Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V8lGrtq_w8Q"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SKqSnl-Wdu2FuOhy_9_Pxf1Rw_c",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLjVVY3ZsZVlmR3ow",
+      "snippet": {
+        "publishedAt": "2021-02-01T11:18:18Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Lovitură de stat în Myanmar. Capitala este izolată - internetul, telefonia și televiziunea, tăiate",
+        "description": "Aung San Suu Kyi, șefa partidului Liga Națională pentru Democrație (LND), aflat la guvernare în Myanmar, a fost arestată de armată împreună cu alți oficiali ai acestui partid. Lovitura de stat are loc într-o țară care s-a aflat sub o dictatură militară tiranică vreme de 49 de ani.\n\n➥ Citeşte articolul integral - http://bit.ly/39BZB1H\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5UcvleYfGz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5UcvleYfGz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5UcvleYfGz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5UcvleYfGz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5UcvleYfGz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5UcvleYfGz0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oVu-gWlaGspyldMRDVPM4q3W-vI",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLkJFclVnSG1OT3NF",
+      "snippet": {
+        "publishedAt": "2021-02-01T11:12:26Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Jurnalistul Robert Kiss: În interiorul coaliției, fiecare lider trage pentru propriul partid",
+        "description": "Scandal în PNL, amânări în privința bugetului și o desincronizare în abordare între premier și ministrul Sănătății. Premierul Florin Cîţu a declarat, luni, că adoptarea bugetului de stat în Guvern va mai întârzia câteva zile, deoarece aşteaptă de la miniştri propuneri de reforme privind companiile de stat. Acesta a mai afirmă și că nu există nicio persoană care să se fi vaccinat în afara strategiei naționale de imunizare.\n\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BErUgHmNOsE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BErUgHmNOsE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BErUgHmNOsE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BErUgHmNOsE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BErUgHmNOsE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BErUgHmNOsE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_I0NjgzGlRwKUzei7r6OHw1pWgs",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLkxlWjVoOEoyUkxF",
+      "snippet": {
+        "publishedAt": "2021-02-01T10:34:15Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Ministrul Educației: Trebuie schimbat orarul dacă se redeschid școlile - Digi24",
+        "description": "Ministrul Educației, Sorin Cîmpeanu, a confirmat că o decizie finală privind redeschiderea școlilor va fi luată în cursul zilei de marți. Cîmpeanu a făcut precizări și cu privire la cele cinci categorii de elevi și profesori care vor continua să facă ore online chiar și în situația ipotetică în care școlile se vor deschide din 8 februarie. Ministrul spune că deși scenariul hibrid a fost eliminat, orele online vor fi grupate, acolo unde se impune. \n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24 #SorinCîmpeanu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LeZ5h8J2RLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LeZ5h8J2RLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LeZ5h8J2RLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LeZ5h8J2RLE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LeZ5h8J2RLE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LeZ5h8J2RLE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3mDBb-FFO-JZnDYFOPPs9SfiLJE",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLlZtM2k4S2lpUUt3",
+      "snippet": {
+        "publishedAt": "2021-02-01T10:08:08Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Scandal între ministrul Transporturilor și sindicaliștii de la metrou pentru salariile Metrorex",
+        "description": "Scandal între ministrul Transporturilor și sindicaliștii de la metrou. Aceștia din urmă l-au acuzat pe Cătălin Drulă că nu este informat, atunci când vorbește despre salariile angajaților companiei de stat. Ministrul comentase că venitul mediul al angajaților Metrorex este de 10.000 de lei lunar. Iar salariile au crescut anul trecut deși, din cauza pandemiei, numărul de călători și încasările au scăzut.\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vm3i8KiiQKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vm3i8KiiQKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vm3i8KiiQKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vm3i8KiiQKw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vm3i8KiiQKw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Vm3i8KiiQKw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pPNeOtO7-6DbPetaJQe2X_lCDWQ",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLkFZMXF4enhseXlJ",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:45:39Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Controale ale Poliției și Gărzii de Mediu la depozitele ilegale de deșeuri din București - Digi24",
+        "description": "Controale ale comisarilor Gărzii de Mediu și polițiștilor locali din București. Echipe mixte s-au organizat în fiecare sector pentru a depista unitățile care poluează. Primăria Capitalei le-a pus la dispoziție stații mobile de măsurare a calității aerului.\n\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AY1qxzxlyyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AY1qxzxlyyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AY1qxzxlyyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AY1qxzxlyyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AY1qxzxlyyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AY1qxzxlyyI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dCOPNbd7iB4oldtzr1mOEh93MvI",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLkRpMXRHbzcwVmNF",
+      "snippet": {
+        "publishedAt": "2021-02-01T09:09:00Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Un șofer beat a făcut slalom pe DN1 printre mașini - Digi24",
+        "description": "Un șofer beat a făcut slalom printre mașinile de pe Drumul Național 1, pe sensul de mers București-Ploiești. Acesta a fost la un pas să provoace un accident din cauza modului haotic de condus.\n➥ Citeşte articolul integral - http://bit.ly/2MIZBnP\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Di1tGo70VcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Di1tGo70VcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Di1tGo70VcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Di1tGo70VcE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Di1tGo70VcE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Di1tGo70VcE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_Rn0aTZtS8e25bee7QzQvhz8wU0",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLjNUQTRULU1hcGRJ",
+      "snippet": {
+        "publishedAt": "2021-02-01T08:59:46Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Grupările criminale din Uniunea Europeană devin tot mai violente - Digi24",
+        "description": "Grupările criminale sunt tot mai violente, iar asta reprezintă una dintre amenințările anului 2021 la adresa securității publice din țările Uniunii Europene. Concluzia apare în cel mai recent raport al Agenției Europene Europol. \n\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3TA4T-MapdI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3TA4T-MapdI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3TA4T-MapdI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3TA4T-MapdI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3TA4T-MapdI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3TA4T-MapdI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KgQEfLPmQVEcTUIov1bfm9fLYxE",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLmpZV1VIdzBxRTU0",
+      "snippet": {
+        "publishedAt": "2021-02-01T08:49:41Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Florin Cîțu: Bugetul întârzie „un pic”.  Am cerut un lucru și nu dau înapoi",
+        "description": "Premierul Florin Cîțu a anunțat luni că proiectul de buget va întârzia „un pic”, pentru că nu a primit de la miniștri proiectele de refome, în funcție de care vor fi alocați banii în 2021.\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#FlorinCîțu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jYWUHw0qE54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jYWUHw0qE54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jYWUHw0qE54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jYWUHw0qE54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jYWUHw0qE54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jYWUHw0qE54"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T9jEST1ri8g2b55ZwTjSKzA-guY",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLk1iNjQydVFDdl9j",
+      "snippet": {
+        "publishedAt": "2021-02-01T08:47:10Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Cele patru scenarii în care se poate face școală online, detaliate de ministrul Educației",
+        "description": "Deja sunt 190.000 de copii care n-au învățat să scrie, a anunțat ministrul educației, Sorin Cîmpeanu, duminică seara, la Digi24, arătând că în data de 8 februarie, când începe semestrul al doilea al anului școlar 2020-2021, se împlinesc trei luni de când elevii fac exclusiv școală online, iar Ministerul Educației, dar și marea majoritate a părinților își doresc „revenirea la normalitate”.\n\n➥ Citeşte articolul integral - http://bit.ly/3raMlXM\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mb642uQCv_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mb642uQCv_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mb642uQCv_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mb642uQCv_c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mb642uQCv_c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Mb642uQCv_c"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bF-TnrFNQ_0Z_8Be7kl3gDYgn94",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLnI0VFlVVkxLc2Jn",
+      "snippet": {
+        "publishedAt": "2021-02-01T07:52:31Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Preot atacat după ce a pledat pentru vaccinare",
+        "description": "Dorel Galan, un preot ortodox din Cluj, a devenit cunoscut în presa străină după ce a vorbit cu jurnaliștii AFP despre faptul că a devenit ținta urii și a jignirilor pentru că a pledat pentru vaccinarea anti-COVID. Preotul are 45 de ani și a fost infectat deja cu coronavirus. \n➥ Citeşte articolul integral - http://bit.ly/2YvcnbV\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r4TYUVLKsbg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r4TYUVLKsbg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r4TYUVLKsbg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r4TYUVLKsbg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r4TYUVLKsbg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r4TYUVLKsbg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YvJ_qh41Hk1-zaCd3v_nX1e7zlA",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLmtrUkxsYkFpUmE4",
+      "snippet": {
+        "publishedAt": "2021-02-01T07:40:55Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Nou incident într-un spital din România. Pacienți evacuați de la „Sf. Pantelimon” din cauza fumului",
+        "description": "Un nou incident a avut loc duminică seara într-un spital din Capitală, la doar două zile de la incendiul de la „Matei Balș”. Primele informații și imagini arată că la Spitalul „Sf Pantelimon” au fost evacuați pacienți dintr-un salon care s-a umplut de fum. \n➥ Citeşte articolul integral - http://bit.ly/36sHtW0\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kkRLlbAiRa8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kkRLlbAiRa8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kkRLlbAiRa8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kkRLlbAiRa8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kkRLlbAiRa8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kkRLlbAiRa8"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C_aOxMGFMTNeIsrd3VS-dOOKC-Y",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLjV0UmdtX2FOWmxz",
+      "snippet": {
+        "publishedAt": "2021-02-01T07:34:08Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "A şaptea tranşă de vaccin Pfizer BioNTech, de peste 160.000 de doze, a ajuns în ţară - Digi24",
+        "description": "Încă un transport de vaccinuri Pfizer a ajuns în România. Este vorba despre aproape 164.000 de doze, ceva mai puține decât săptămâna trecută. Serurile sunt aduse cu avioane care au aterizat pe aeropoturile din Otopeni, din Timișoara și din Cluj. Este a șaptea tranșă de vaccinuri primite de România de la compania americană. \n➥ Citeşte articolul integral - http://bit.ly/3cGuCDV\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5tRgm_aNZls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5tRgm_aNZls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5tRgm_aNZls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5tRgm_aNZls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5tRgm_aNZls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5tRgm_aNZls"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Eb5vS-ZUKoZmjXNXKJcaH6Vp3NU",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLjZ1OVRQdWF5LTlZ",
+      "snippet": {
+        "publishedAt": "2021-02-01T07:27:56Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Polițiști atacați cu bâte și pietre. Luptători SAS și jandarmi au intervenit în ajutor -  Digi24",
+        "description": "Un echipaj de poliție a fost atacat cu bâte și pietre în comuna Coroieni, din județul Maramureș. Oamenii legii interveniseră pentru aplanarea unui conflict între mama unui copil și tatăl acestuia.\n➥ Citeşte articolul integral - http://bit.ly/3aq6Wk8\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6u9TPuay-9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6u9TPuay-9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6u9TPuay-9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6u9TPuay-9Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6u9TPuay-9Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6u9TPuay-9Y"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NFyjGeE9nFy4v4lOnCntXTADsOk",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLmVTUjNYLUVPQW44",
+      "snippet": {
+        "publishedAt": "2021-02-01T07:23:30Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Un bebeluș din Suceava a murit după ce a fost botezat - Digi24",
+        "description": "Bebelușul de la Suceava, dus la spital după ce s-a înecat în timpul botezului, a murit în luni dimineață. El se afla la un spital din Suceava, unde a fost dus în stare gravă. \n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eSR3X-EOAn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eSR3X-EOAn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eSR3X-EOAn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eSR3X-EOAn8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eSR3X-EOAn8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eSR3X-EOAn8"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cZb-DtrIeydHvu7mXMKLczqn0tk",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLmpoOEpiMlg5RzRv",
+      "snippet": {
+        "publishedAt": "2021-01-31T10:00:32Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Ce înseamnă piața emergentă și ce schimbări aduce această promovare pentru piatța din România",
+        "description": "În peisajul piețelor de capital, și mai ales în rândul investitorilor care urmăresc piețele de acțiuni, clasificarea piețelor este foarte importantă.\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24 #BaniiÎnMișcare #EmisiuniDigi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jh8Jb2X9G4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jh8Jb2X9G4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jh8Jb2X9G4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jh8Jb2X9G4o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jh8Jb2X9G4o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jh8Jb2X9G4o"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vGROM7HAwYRRQ-pnNgCejlmnVEo",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLkRjWmlBSlcycWR3",
+      "snippet": {
+        "publishedAt": "2021-01-31T08:00:03Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Un urs amator de distracție  și-a făcut apariția la ușa unui DJ care mixa live - Digi24",
+        "description": "Un DJ care mixa live pe internet din sufrageria casei salea avut parte de o surpriză de proporții. La ușă și-a făcut apariția un amator de distracție, doar că nu este vorba despre un om, ci despre... un urs.\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DcZiAJW2qdw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DcZiAJW2qdw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DcZiAJW2qdw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DcZiAJW2qdw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DcZiAJW2qdw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DcZiAJW2qdw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5ww_m2pNVPVz-H_MeF1XoiMlir0",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLjg4YUxNV2d2ZVY0",
+      "snippet": {
+        "publishedAt": "2021-01-30T14:00:06Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Cristian Presură, despre „Ceasul Apocalipsei”: Este o metaforă, vorbim de minute la scală cosmică",
+        "description": "„Ceasul Apocalipsei”, un ceas simbolic, măsoară apropierea umanităţii de distrugere totală în urma propriilor sale acţiuni nocive. El s-a apropiat în 2018 cu încă 30 de secunde de miezul nopţii, momentul similar cu Armagedonul, în contextul îngrijorărilor tot mai mari legate de armele nucleare şi schimbarea climatică. A fost menținut așa și în 2019, iar în 2020 a fost modificat la 100 de secunde.\n\n➥ Citeşte articolul integral - http://bit.ly/3a6yWcw\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/88aLMWgveV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/88aLMWgveV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/88aLMWgveV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/88aLMWgveV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/88aLMWgveV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "88aLMWgveV4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fpabxgq15NyqZvJp2N1a3n33yto",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLjFmZmFYcFZ1dkxF",
+      "snippet": {
+        "publishedAt": "2021-01-30T12:00:01Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Piept de curcan cu sos de muștar. Rețetele lui Petrișor Tănase la Sănătatea în bucate, Digi24",
+        "description": "Rețeta delicioasă recomandată astăzi de Petrișor Tănase este piept de curcan cu sos de muștar. Ai nevoie de:piept de curcan, șuncă afumată, spanac, ciuperci, smântână, ardei iute, muștar. \n\n\"Sănătatea în Bucate\" este o emisiune în care oricine poate învăţa să gătească rapid, gustos şi sănătos. Duminică, Petrișor Tănase, gazda emisiunii, te ajută să creezi cele mai spectaculoase bucate cu minim de efort şi ingrediente pe care le poţi găsi la orice supermarket.\n\n#Digi24 #EmisiuniDigi24 #SănătateÎnBucate #RețeteleLuiPetrișorTănase",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1ffaXpVuvLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1ffaXpVuvLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1ffaXpVuvLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1ffaXpVuvLE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1ffaXpVuvLE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1ffaXpVuvLE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cyEjntuuG64QuxRIvrV1zEIIoqg",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLmxHQ0ZuNndZRlM0",
+      "snippet": {
+        "publishedAt": "2021-01-30T10:00:30Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Dezvăluirea făcută de Kamala Harris soțului în direct, la un interviu - Digi24",
+        "description": "Kamala Harris și soțul ei au acordat un interviu postului de televiziune CBS în care au vorbit printre alte subiecte, despre căsătoria lor, familie și rolul lui Douglas Emhoff ca primul „second gentleman” al SUA.\n➥ Citeşte articolul integral - http://bit.ly/3pyteqj\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24 #KamalaHarris",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lGCFn6wYFS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lGCFn6wYFS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lGCFn6wYFS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lGCFn6wYFS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lGCFn6wYFS4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lGCFn6wYFS4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LMb60Bd1dJR4RI_RWpxaurqYcyQ",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLmI4Z291TUF1VmhB",
+      "snippet": {
+        "publishedAt": "2021-01-30T08:00:10Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Despărțire grea în armată: Un caporal își ia rămas bun de la cățelușa crescută în unitate - Digi24",
+        "description": "Pe pagina de Facebook a Ministerului Apărării Naționale a apărut un filmuleț emoționant în care caporalul Dănuț Albu își ia la revedere de la cățelușa pe care a crescut-o în unitate, Maronica. Caporalul trece în rezervă, iar cățelușa parcă ar înțelege momentul.\n➥ Citeşte articolul integral - http://bit.ly/36mkUm4\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b8gouMAuVhA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b8gouMAuVhA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b8gouMAuVhA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b8gouMAuVhA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b8gouMAuVhA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Nd--g0HmnEiSZHB06J_kRfMA7TI",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLlQ0SU54Q1ZHU0NN",
+      "snippet": {
+        "publishedAt": "2021-01-29T20:36:02Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "CTP: Manipularea și-a atins scopul în cazul celor care refuză vaccinul dar au luat toată Ivermectina",
+        "description": "Manipularea și-a atins scopul astăzi. Sunt o serie de cetățeni care, orice ar auzi în continuare, orice ar spune ancheta acum ca rezultate, au rămas cu ideea că „ăștia nu bagă căldură în spitale și de-aia au ars oamenii acolo”, a comentat, vineri seara, la Digi24, gazetarul Cristian Tudor Popescu vorbind despre incendiul de la Institutul „Matei Balș”, soldat cu cinci morți.\nCap limpede din data de 2021-01-29. Cap limpede, cu gazetarul Cristian Tudor Popescu, transmisă de Digi24 în fiecare vineri, de la ora 20:00, este una dintre cele mai noi producții Digi24, care are formatul unui talk-show cu invitat permanent, va avea astfel posibilitatea de a face bilanțul la finalul fiecărei săptămâni fără a mai suporta constrângerile unei singure ore de emisie.\n#CTP #CapLimpede #Digi24 #EmisiuniDigi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T4INxCVGSCM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T4INxCVGSCM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T4INxCVGSCM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T4INxCVGSCM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZWGdTIKgqRCUYLU1473LWmxbq14",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLmxjVnRUMk9rRWNJ",
+      "snippet": {
+        "publishedAt": "2021-01-29T20:11:08Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Avocat: O infirmieră de la „Matei Balș” a oprit alimentarea cu oxigen, alta a aruncat o pătură",
+        "description": "Infirmierele au fost primele care au reacționat în momentul în care a izbucnit incendiul de vineri dimineata de la „Matei Balș”, ele au luat primele „contact” cu focul, iar una dintre ele a avut prezența de spirit de o opri alimentarea cu oxigen, a declarat avocatul Institutului, Constantin Durgheu. „Dacă nu se oprea (oxigenul - n.r.), aveam și explozie”, a adăugat avocatul, aflat la Poliția Capitalei, acolo unde mai mulți angajați ai spitalului au fost audiați.\n➥ Citeşte articolul integral - http://bit.ly/3t8Q0aw\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lcVtT2OkEcI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lcVtT2OkEcI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lcVtT2OkEcI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lcVtT2OkEcI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lcVtT2OkEcI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lcVtT2OkEcI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pG9-LnEHbYW202yQhwBPGtvwjtA",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLklETnpQQVRaaFpR",
+      "snippet": {
+        "publishedAt": "2021-01-29T15:46:26Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Marius Geantă: Trebuie să privim în perspectivă. Ne indignăm și uităm, din păcate",
+        "description": "Ancheta în cazul incendiului de la „Matei Balș” este în derulare. Criminaliștii și specialiștii de la INSEMEX, institutul din Petroșani specializat în astfel de cazuri, trebuie să inspecteze saloanele afectate, iar în paralel mai multe cadre medicale au fost chemate la audieri.\n\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IDNzPATZhZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IDNzPATZhZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IDNzPATZhZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IDNzPATZhZQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eXY8QoIMhHPdtjCe_GsibesgLh0",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLnpCQ1hlVzRJLXl3",
+      "snippet": {
+        "publishedAt": "2021-01-29T15:36:30Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Vaccinul AstraZeneca a fost aprobat pentru folosire în Uniunea Europeană",
+        "description": "Agenția Europeană a Medicamentelor a aprobat, în urmă cu puține momente, ca vaccinul produs de AstraZeneca să fie folosit în țările din Uniunea Europeană pentru persoanele peste 18 ani.\n\n➥ Citeşte articolul integral - http://bit.ly/3adsT66\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zBCXeW4I-yw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zBCXeW4I-yw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zBCXeW4I-yw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zBCXeW4I-yw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zBCXeW4I-yw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zBCXeW4I-yw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WBqNVHFr3LXYLiu83aWGGnB_f2k",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLnd3UC03NWtWVk5R",
+      "snippet": {
+        "publishedAt": "2021-01-29T14:51:30Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Explicația unui specialist pentru exploziile și incendiile din secţiile de Terapie Intensivă -Digi24",
+        "description": "Specialistii au o explicaţie pentru producerea exploziilor şi incendiilor în secţiile de Terapie Intensivă. Potrivit lectorului universitar Marius Bodea, în fiecare salon în care pacienţii au nevoie de oxigen medicinal există un surplus din acest gaz vital iar dacă încăperea nu este aerisită constant , la contactul cu orice sursă de aprindere,  chiar şi întrerupătoare electice, nu numai aeroterme, se produce imediat o explozie. \n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wwP-75kVVNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wwP-75kVVNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wwP-75kVVNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wwP-75kVVNQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wwP-75kVVNQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wwP-75kVVNQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vAl5R2KnNDlP_w2R8PfgL1IidZM",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLjAwNS01bzV5a2hN",
+      "snippet": {
+        "publishedAt": "2021-01-29T14:22:41Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Mircea Hava, PNL: Marea problemă este că se face prea multă politică și prea puțină administrație",
+        "description": "Un număr de 38 de echipaje de prim ajutor au fost mobilizate vineri dimineaţa pentru incendiul de la Institutul „Matei Balş” din Capitală. Coordonatorul echipei medicale, dr. Bogdan Opriţa, a precizat că la faţa locului au acţionat, de asemenea, şase echipaje de terapie intensivă mobilă şi cinci autospeciale de transport personal şi victime multiple.\n\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/005-5o5ykhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/005-5o5ykhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/005-5o5ykhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/005-5o5ykhM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/005-5o5ykhM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "005-5o5ykhM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xHADFLHfI5Vh7OYoU_kZvtECP34",
+      "id": "VVVidkthbVNySmt3VDZlZDJCTU1aWHdnLmY2dXd5dDA1bWo0",
+      "snippet": {
+        "publishedAt": "2021-01-29T13:31:17Z",
+        "channelId": "UCbvKamSrJkwT6ed2BMMZXwg",
+        "title": "Pacientul ars a ajuns în Belgia. A fost evaluat și este infectat cu trei bacterii - Digi24",
+        "description": "Pacientul ars din Constanța, plimbat între spitale de câteva zile, a ajuns în sfârșit în Belgia. Medicii de acolo l-au evaluat și are trei bacterii.\n➥ Pentru mai multe știri vizitează site-ul Digi24 - https://www.digi24.ro/ \n➥ Abonează-te la canalul nostru de YouTube - https://bit.ly/36CZ907\n#Digi24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f6uwyt05mj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f6uwyt05mj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f6uwyt05mj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f6uwyt05mj4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f6uwyt05mj4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digi24HD",
+        "playlistId": "UUbvKamSrJkwT6ed2BMMZXwg",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f6uwyt05mj4"
+        }
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 3310,
+    "resultsPerPage": 50
+  }
+}
