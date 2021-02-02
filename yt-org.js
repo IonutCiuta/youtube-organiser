@@ -88,9 +88,22 @@ fs.readFile("out.json", (err, data) => {
         return filterByTitle("Banii în mișcare", video)
           || filterByDesc("Banii în mișcare", video)
           || filterByDesc("#BaniiÎnMișcare", video)
-    }).sort((v1, v2) => new Date(v1.data) < new Date(v2.data))  
-    console.log(filtered)
-    console.log(filtered.length)
+    }).sort((v1, v2) => new Date(v2.date) - new Date(v1.date))  
+    
+    let relevantVideos = []
+    filtered.forEach(e => {
+      let v = {
+        title: e.title,
+        date: e.date,
+        url: "https://www.youtube.com/watch?v=" + e.id,
+        cover: e.cover
+      }
+      console.log(v.title, "\n", v.url, "\n", v.date, "\n-")
+      relevantVideos.push(v)
+    })
+    fs.writeFile("relevantVideos.json", JSON.stringify(relevantVideos), () => {
+      console.log("Writing done.")
+    })
   } else {
     console.error(err)
   }
