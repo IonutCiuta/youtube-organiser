@@ -1,5 +1,4 @@
 import { Card } from 'react-bootstrap';
-import { connect } from 'react-redux'
 import moment from 'moment';
 
 const parseDate = (date) => {
@@ -10,7 +9,7 @@ const getVideoUrl = (id) => {
   return "/details/" + id
 }
 
-const Component = (props) => {
+const YTVideo = (props) => {
   const video = props.video
 
   return (
@@ -24,7 +23,5 @@ const Component = (props) => {
     </Card>
   );
 }
-
-const YTVideo = connect()(Component)
 
 export default YTVideo;
