@@ -1,12 +1,17 @@
 import { Card } from 'react-bootstrap';
+import { connect } from 'react-redux'
 import moment from 'moment';
 
 const parseDate = (date) => {
   return moment(date).format("DD MMMM yyyy")
 }
 
-function YTVideo(props) {
-  const video = props.content
+const getVideoUrl = (id) => {
+  return "/details/" + id
+}
+
+const Component = (props) => {
+  const video = props.video
 
   return (
     <Card style={{ width: '30rem', margin: '1rem 0rem' }}>
@@ -14,10 +19,12 @@ function YTVideo(props) {
       <Card.Body>
         <Card.Title>{video.title}</Card.Title>
         <Card.Subtitle className="mb-2 text-muted">{parseDate(video.date)}</Card.Subtitle>
-        <Card.Link href={video.url} target="_blank">Watch</Card.Link>
+        <Card.Link href={getVideoUrl(video.url)}>Watch</Card.Link>
       </Card.Body>
     </Card>
   );
 }
+
+const YTVideo = connect()(Component)
 
 export default YTVideo;

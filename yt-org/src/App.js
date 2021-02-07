@@ -1,9 +1,13 @@
-import { useState, useEffect } from 'react';
+import { useEffect } from 'react';
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
+import { Provider } from 'react-redux';
 import './App.css';
-import YTVideo from './components/YTVideo/YTVideo'
+import store from './store/store.js'
+import YTList from './components/YTList/YTList'
+import Details from './components/Details/Details'
+import { putVideosAction } from './actions/putVideos.js'
 
 function App() {
-  const [videos, setVideos] = useState([])
 
   const getVideos = () => {
     fetch('videos.json', {
@@ -12,11 +16,13 @@ function App() {
         'Accept': 'application/json'
       }
     }).then(response => {
-      console.log(response)
       return response.json();
     }).then(jsonData => {
-      console.log(jsonData)
-      setVideos(jsonData);
+      let idToVideoMap = new Map()
+      jsonData.forEach(video => {
+        idToVideoMap.set(video.url, video)
+      });
+      store.dispatch(putVideosAction(idToVideoMap));
     })
   }
 
@@ -26,13 +32,20 @@ function App() {
   }, [])
 
   return (
-    <div className="App">
-      {
-        videos
-        && videos.length > 0
-        && videos.map(v => <YTVideo content={v} key={v.url}></YTVideo>)
-      }
-    </div>
+      <Router>
+        <Provider store={store}>
+          <div className="App">
+            <div style={{position: 'sticky', top: '0', zIndex: '100', background: 'white', width: '100%', textAlign: 'center'}}>
+              <h2>Banii in miscare</h2>
+            </div>
+            <YTList></YTList>
+          </div>
+        </Provider>
+
+        <Switch>
+          <Route path="/details/:id" component={Details}/>
+        </Switch>
+      </Router>
   );
 }
 
