@@ -1,5 +1,4 @@
 import { connect, useSelector } from 'react-redux'
-import store from '../../store/store.js'
 import YTVideo from '../YTVideo/YTVideo'
 
 const getVideos = state => {

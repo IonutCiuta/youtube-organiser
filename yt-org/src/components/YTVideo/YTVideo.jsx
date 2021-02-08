@@ -1,5 +1,6 @@
 import { Card } from 'react-bootstrap';
 import moment from 'moment';
+import { Link } from 'react-router-dom';
 
 const parseDate = (date) => {
   return moment(date).format("DD MMMM yyyy")
@@ -18,7 +19,7 @@ const YTVideo = (props) => {
       <Card.Body>
         <Card.Title>{video.title}</Card.Title>
         <Card.Subtitle className="mb-2 text-muted">{parseDate(video.date)}</Card.Subtitle>
-        <Card.Link href={getVideoUrl(video.url)}>Watch</Card.Link>
+        <Link to={getVideoUrl(video.url)}>Watch</Link>
       </Card.Body>
     </Card>
   );
